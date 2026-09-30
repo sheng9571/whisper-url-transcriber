@@ -1,0 +1,22 @@
+# Audio
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+
+# Output
+output/
+transcript.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
